@@ -2,7 +2,7 @@
 
 ## Schedule
 
-### Professor Jan Allebach
+### Professor Jan Allebach ([Course Website](https://engineering.purdue.edu/~ece438/))
 
 | Week # | Lab Name | Link |
 |:------:|:---:|:----:|
