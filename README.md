@@ -6,8 +6,8 @@
 
 | Week # | Lab Name | Link |
 |:------:|:---:|:----:|
-|1| Lab 1: Discrete and Continuous-Time Signals             | [[repo](https://github.com/Purdue-ECE438-Labs/lab01.git)] |
-|2| Lab 2: Discrete-Time Systems                            | [[repo](https://github.com/Purdue-ECE438-Labs/lab02.git)] |
+|1| Lab 1: Discrete and Continuous-Time Signals             | [[repo](https://github.com/Purdue-ECE438-Labs/Lab01-Starter.git)] |
+|2| Lab 2: Discrete-Time Systems                            | [[repo](https://github.com/Purdue-ECE438-Labs/Lab02-Starter.git)] |
 |3| Lab 3: Frequency Analysis                               | [[repo]()] |
 |4| Lab 4a: Sampling and Reconstruction                     | [[repo]()] |
 |5| Lab 4b: Interpolation and Decimation                    | [[repo]()] |
