@@ -7,7 +7,7 @@ Lab syllabus can be found [here](Spring%202022%20Lab%20Syllabus.pdf).
 ### Professor Jan Allebach ([Course Website](https://engineering.purdue.edu/~ece438/))
 
 | Week # | Lab Name |
-|:------:|:---:|:----:|
+|:------:|:---:|
 |1| Lab 1: Discrete and Continuous-Time Signals             |
 |2| Lab 2: Discrete-Time Systems                            |
 |3| Lab 3: Frequency Analysis                               |
