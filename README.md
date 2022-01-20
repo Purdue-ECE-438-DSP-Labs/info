@@ -54,7 +54,7 @@ Don’t do it. Specifically, if you have access to a previously graded lab repor
     * Copying written work from others.
     * Copying your lab partner’s code.
     * Submitting report or code that includes someone else’s work.
-    * Requesting a re-grade of lab report that has been altered.
+    * Requesting a regrade of lab report that has been altered.
     * Looking at another student’s quiz.
 
 **_Any kind of cheating will result in a failing lab grade._** This would require the student to retake the lab in a subsequent semester. All occurrences of academic dishonesty will be reported to the Assistant Dean of Students and copied to the ECE Assistant Head for Education. If there is any question as to whether a given action might be construed as cheating, please see the professor or the TA before you engage in any such action.
