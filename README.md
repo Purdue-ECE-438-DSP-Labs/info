@@ -25,13 +25,13 @@ Students must attend every laboratory as health permits. Masks and face shields 
 ## Laboratory Components
 
 1. Weekly Pre-Lab Quiz
-    * $30\%$ of total lab grade (Your lowest quiz grade will be dropped.)
+    * 30% of total lab grade (Your lowest quiz grade will be dropped.)
     * Each quiz is worth 10 points and is based on the lab content that will be covered on that day.
     * You will be given 15 minutes to complete the quiz.
     * If a student is more than 10 minutes late for the quiz, they will need to take a makeup quiz at a later date. The makeup quiz time must be coordinated with your TA.
     * A student can take up to 2 makeup quizzes. Makeup quizzes due to illness or COVID-19 related absences will not count against the 2 makeup quiz limit.
 2. Laboratory Report
-    * $70\%$ of total lab grade.
+    * 70% of total lab grade.
     * Lab reports will consist of a cover sheet/grading rubric, plots, written work, and code specified in the lab document.
     * Lab reports are graded out of 100 points
     * Late reports will be penalized at 10 points per day.
