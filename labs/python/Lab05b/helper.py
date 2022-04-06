@@ -98,6 +98,9 @@ def remlpord(freq1, freq2, delta1, delta2):
 
 
 def firpmord(fcuts, mags, devs, fsamp):
+    fcuts = np.array(fcuts)
+    mags = np.array(mags)
+    devs = np.array(devs)
     fcuts = fcuts / fsamp
     if np.any(fcuts > 1 / 2):
         raise ValueError("Invalid range.")
